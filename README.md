@@ -4,7 +4,6 @@
 
 <em>Developer Gautam Chandra Saha</em>
 
-[![](https://jitpack.io/v/DevGautam2000/GScript.svg)](https://jitpack.io/#DevGautam2000/GScript)
 
 <h3>First add the jar file into your project link given above<br><br>
   <h4>How to add a jar file?<br>There are number of tutorials on that go check out!</h4></h3>
