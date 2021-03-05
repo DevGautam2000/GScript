@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="gscript:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gscript_jar</output-path>
+    <root id="archive" name="gscript.jar" />
+  </artifact>
+</component>
