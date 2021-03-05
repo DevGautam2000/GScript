@@ -23,3 +23,6 @@
 <h4>Reading a Variable</h4><br>
 <h4>Generating random numbers in java Vs. gscript</h4>
 <img src="https://raw.github.com/DevGautam2000/GScript/master/images/random.png"  alt="Preview" width=800><br>
+
+
+<h2>And a lot more functions go ahead and checkout the source file in Repo</h2><br>
