@@ -1,0 +1,6 @@
+gscript/NewMath.java
+ gscript.NewMath
+gscript/Print.java
+ gscript.Print
+gscript/Gio.java
+ gscript.Gio
