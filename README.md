@@ -11,4 +11,4 @@
 
 <h4>After adding the jar file to your project</h4><br><em>Follow these steps: </em>
 <h4>Remember to import these into your class</h4>
-<img src="https://raw.github.com/DevGautam2000/GScript/master/images/HelloW.png"  alt="Preview" width=300><br>
+<img src="https://raw.github.com/DevGautam2000/GScript/master/images/HelloW.png"  alt="Preview" width=800><br>
