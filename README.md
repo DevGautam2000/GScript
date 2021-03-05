@@ -5,7 +5,7 @@
 <em>Developer:&nbsp;Gautam Chandra Saha</em>
 
 
-<h3>First add the jar file into your project link given above<br><br>
+<h3>First add the jar file into your project, link given above<br><br>
   <h4>How to add a jar file?<br>There are number of tutorials on that go check out!</h4></h3>
 
 <h4>After adding the jar file to your project</h4><br><em>Follow these steps: </em>
