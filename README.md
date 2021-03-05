@@ -13,4 +13,6 @@
 <h4>Remember to import these into your class</h4>
 <img src="https://raw.github.com/DevGautam2000/GScript/master/images/imports.png"  alt="Preview" width=800><br>
 
+<h4>Lets explore!</h4><br>
+<h4>The print statement of java Vs. gscript</h4>
 <img src="https://raw.github.com/DevGautam2000/GScript/master/images/HelloW.png"  alt="Preview" width=800><br>
