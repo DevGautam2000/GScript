@@ -1,9 +1,9 @@
 plugins {
     id 'java-library'
-    id 'maven-publish'
 }
+apply plugin: 'maven-publish'
 
-group 'org.example'
+group 'com.github.DevGautam2000'
 version '1.0'
 
 repositories {

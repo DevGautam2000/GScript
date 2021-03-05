@@ -4,3 +4,5 @@ gscript/Print.java
  gscript.Print
 gscript/Gio.java
  gscript.Gio
+test.java
+ test
