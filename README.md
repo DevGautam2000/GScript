@@ -27,4 +27,4 @@
 <img src="https://raw.github.com/DevGautam2000/GScript/master/images/random.png"  alt="Preview" width=800><br>
 
 
-<h2>And a lot more functions go ahead and checkout the source file in Repo</h2><br>
+<h2>And a lot more functions go ahead and checkout the source file in <a href="https://github.com/DevGautam2000/GScript/archive/1.2.zip">here</a></h2><br>
