@@ -5,7 +5,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class Gio extends Print implements NewMath{
+public class Gio extends Print{
 
     //for instantiating a new Scanner object for UserInput
     public static Scanner scan(){
