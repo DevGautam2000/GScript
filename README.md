@@ -18,4 +18,4 @@
 
 <h4>Reading a Variable</h4><br>
 <h4>How to read a var in java Vs. gscript</h4>
-<img src="https://raw.github.com/DevGautam2000/GScript/master/images/Read.png"  alt="Preview" width=780><br>
+<img src="https://raw.github.com/DevGautam2000/GScript/master/images/Read.png"  alt="Preview" width=790><br>
