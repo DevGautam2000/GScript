@@ -5,7 +5,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class Gio extends Print{
+public class Gio extends Print implements NewMath{
 
     //for instantiating a new Scanner object for UserInput
     public static Scanner scan(){
@@ -18,17 +18,33 @@ public class Gio extends Print{
     }
 
     //for type of a var
-    public static void type(Object obj){
+    public static void typeOut(Object obj){
         System.out.println(obj.getClass().getName());
     }
+
     //for type of a var in simple
-    public static void type(Object obj,Boolean bool){
+    public static void typeOut(Object obj,Boolean bool){
         if (bool){
             System.out.println(obj.getClass().getSimpleName());
         }
 
     }
+    public static void typeOut(String printString,Object obj,Boolean bool){
+        if (bool){
+            System.out.println(printString+obj.getClass().getSimpleName());
+        }
 
+    }
+
+    //for type of a var
+    public static String type(Object obj){
+        return obj.getClass().getName();
+    }
+
+    //for type of a var
+    public static String type(Object obj,Boolean bool){
+        return obj.getClass().getSimpleName();
+    }
 
     //for a pattern
     public static String read() {
