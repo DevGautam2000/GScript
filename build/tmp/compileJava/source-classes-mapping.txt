@@ -4,5 +4,7 @@ gscript/Print.java
  gscript.Print
 gscript/Gio.java
  gscript.Gio
+gscript/StringManip.java
+ gscript.StringManip
 test.java
  test

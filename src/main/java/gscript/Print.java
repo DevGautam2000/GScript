@@ -2,7 +2,7 @@ package gscript;
 
 
 
-public class Print{
+public class Print extends StringManip{
 
     //for printing
     public static void sout(Object word) {
