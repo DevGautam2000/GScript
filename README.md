@@ -1,12 +1,13 @@
 # GScript
 
+<p>A library written in Java-11 to replace the verbose looking code to something simpler.</p>
+
 <h3>For jar file go to build/libs/src/gscript-1.0.jar in master of Repo(GScript) <span> OR </span><a href='https://github.com/DevGautam2000/GScript/raw/master/build/libs/gscript-1.0.jar'>Click here</a></h3>
 
-<em>Developer Gautam Chandra Saha</em>
+<em>Developer:&nbsp;Gautam Chandra Saha</em>
 
-[![](https://jitpack.io/v/DevGautam2000/GScript.svg)](https://jitpack.io/#DevGautam2000/GScript)
 
-<h3>First add the jar file into your project link given above<br><br>
+<h3>First add the jar file into your project, link given above<br><br>
   <h4>How to add a jar file?<br>There are number of tutorials on that go check out!</h4></h3>
 
 <h4>After adding the jar file to your project</h4><br><em>Follow these steps: </em>
@@ -16,3 +17,14 @@
 <h4>Lets explore!</h4><br>
 <h4>The print statement of java Vs. gscript</h4>
 <img src="https://raw.github.com/DevGautam2000/GScript/master/images/HelloW.png"  alt="Preview" width=800><br>
+
+<h4>Reading a Variable</h4><br>
+<h4>How to read a var in java Vs. gscript</h4>
+<img src="https://raw.github.com/DevGautam2000/GScript/master/images/Read.png"  alt="Preview" width=790><br>
+
+<h4>The Random function is here!</h4><br>
+<h4>Generating random numbers in java Vs. gscript</h4>
+<img src="https://raw.github.com/DevGautam2000/GScript/master/images/random.png"  alt="Preview" width=800><br>
+
+
+<h2>And a lot more functions go ahead and checkout the source file in <a href="https://github.com/DevGautam2000/GScript/archive/1.2.zip">here</a></h2><br>
